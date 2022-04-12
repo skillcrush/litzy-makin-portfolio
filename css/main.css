@@ -319,6 +319,10 @@ header h2 {
   flex-flow: row wrap;
 }
 
+.portfolio-header {
+  margin: 60px 0;
+}
+
 .home-portfolio-piece {
   width: 100%;
   display: flex;
